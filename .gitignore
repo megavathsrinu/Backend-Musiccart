@@ -1,0 +1,4 @@
+# Node.js and express.js specifid ignore patterns
+
+node_modules/
+.env
